@@ -1,4 +1,4 @@
-# TODO : Dissecando uma variável
+#Dissecando uma variável
 palavra = input('Digite algo: ')
 print(f'O tipo primitivo desse valor é {type(palavra)}')
 print('Só tem espaços?', palavra.isspace())
