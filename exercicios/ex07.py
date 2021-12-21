@@ -1,4 +1,4 @@
-#Media Aritmética
+# Media Aritmética
 nota1 = float(input('Digite sua 1ªnota: '))
 nota2 = float(input('Digite sua 2ªnota: '))
 nota3 = float(input('Digite sua 3ªnota: '))

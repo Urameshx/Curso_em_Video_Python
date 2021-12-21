@@ -1,4 +1,4 @@
-#Dobro,Triplo,Raiz Quadrada
+# Dobro,Triplo,Raiz Quadrada
 from math import sqrt
 
 num = int(input('Digite um número: '))
