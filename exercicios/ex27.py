@@ -1,4 +1,4 @@
-#Primeiro e último nome de uma pessoa
+# Primeiro e último nome de uma pessoa
 n = input('Digite seu nome completo: ').strip()
 nome = n.split()
 print(f'Seu primeiro nome é {nome[0]}')
